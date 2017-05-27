@@ -1,3 +1,4 @@
+// 一部未完成
 #include <stdio.h>
 
 int main(void)
